@@ -4,8 +4,17 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-numpy = "==1.26.4"
+scikit-learn = "*"
+scipy = "*"
 pandas = "*"
+matplotlib = "*"
+statsmodels = "*"
+fastapi = "*"
+uvicorn = "*"
+pydantic = "*"
+pingouin = "*"
+seaborn = "*"
+ipykernel = "*"
 
 [dev-packages]
 

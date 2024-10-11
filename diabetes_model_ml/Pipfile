@@ -4,10 +4,14 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-numpy = "==1.26.4"
 pandas = "*"
+matplotlib = "*"
+seaborn = "*"
+scipy = "*"
+scikit-learn = "*"
 
 [dev-packages]
+ipykernel = "*"
 
 [requires]
 python_version = "3.11"
