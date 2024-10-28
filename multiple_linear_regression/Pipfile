@@ -1,0 +1,19 @@
+[[source]]
+url = "https://igcruz:eyJraWQiOiI4ZTNjOWE4Zi1mNDA2LTRiMTQtYWEyMy1kNzQ5Yzc5ZGUwMzQiLCJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJhcnRpZmFjdHMtbWFuYWdlciIsInN1YiI6ImlnY3J1eiIsInR5cGUiOiJ1c2VyIiwiaWF0IjoxNzI5NzMzNzEzLCJleHAiOjE3Mjk3NjI1MTN9.StnRgMlRlxAbeenleEp9YmcMjA0LhupTfRYszXXCSsixN3FlN7S63ajXkOvSsm2lcQFvrjWaNE5hTE2NxWLUYW9AAclaJgZejHFWfqKDpmzuXQWz-bz2q_tEqrQ9QIh9akGXduvWNQ4lRM1von7n2VtXWN1z-4dhffAzN-P98VblQTAoPECkRoHmmrWtMjHMo2AEG86Be_vOK5LogwfiTu4KIQXBKO8PFql2UxvAnSqiJllATyRzN-v-Pd9ST0lJAqlNSgoi-YOr_85NqV0e8HX07fnQwr-y2I_tIRAQbRavUfrA09wRn73pnCUrFXsxLDjclwpS_NXhc8VgvWVDCg@pypi.artifacts.furycloud.io"
+verify_ssl = true
+name = "pip_conf_index_global"
+
+[packages]
+scikit-learn = "*"
+scipy = "*"
+pandas = "*"
+matplotlib = "*"
+seaborn = "*"
+ipykernel = "*"
+gradio = "*"
+statsmodels = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"

@@ -1,0 +1,24 @@
+[[source]]
+url = "https://igcruz:eyJraWQiOiI4ZTNjOWE4Zi1mNDA2LTRiMTQtYWEyMy1kNzQ5Yzc5ZGUwMzQiLCJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJhcnRpZmFjdHMtbWFuYWdlciIsInN1YiI6ImlnY3J1eiIsInR5cGUiOiJ1c2VyIiwiaWF0IjoxNzI5ODE4OTAxLCJleHAiOjE3Mjk4NDc3MDF9.NuVKaq7Csq65Yal631FXR-d1dUdVdcRuA0kNavYhFa6nS5gWj9QZPnLEE-n3UZCY672ki2cvi9PuKjKF4uF3BK5XwnFkIqocf90ZxQkIwWkoTkUQz1tlR9w4QfxTfnimTOez6L3Vr5pAL4DW5eHgM9QsrimvkBuyCB7n7aDSMGRg2atQHQiEqmmc1IvES1VzWMxY5SGDOTG3GhRQCSQpm4uzOAU45WkHDIT-3bx2lT3djiQcQp-aYjSOQpEORV_5-UzL6GaelO2_i0bwePErooYgxFCIXXpAjceOxIHu2lG45pC8WXP_lM1V3Tz3-WButr1BfohksLOhKdAw_K57vg@pypi.artifacts.furycloud.io"
+verify_ssl = true
+name = "pip_conf_index_global"
+
+[packages]
+pandas = "*"
+
+[dev-packages]
+scikit-learn = "*"
+scipy = "*"
+matplotlib = "*"
+seaborn = "*"
+ipykernel = "*"
+fastapi = "*"
+pydantic = "*"
+streamlit = "*"
+uvicorn = "*"
+requests = "*"
+pingouin = "==0.5.5"
+
+[requires]
+python_version = "3.9"
+python_full_version = "3.9.19"
