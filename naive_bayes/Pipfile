@@ -1,0 +1,28 @@
+[[source]]
+url = "https://igcruz:eyJraWQiOiI4ZTNjOWE4Zi1mNDA2LTRiMTQtYWEyMy1kNzQ5Yzc5ZGUwMzQiLCJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJhcnRpZmFjdHMtbWFuYWdlciIsInN1YiI6ImlnY3J1eiIsInR5cGUiOiJ1c2VyIiwiaWF0IjoxNzMwNDIyODczLCJleHAiOjE3MzA0NTE2NzN9.JEsej5JUfwIUX5H5jU-S1F3Qu2nGLKCEmQefadJTDcJ-82QCqDaSPnC6Y74B6yIhcHRaFdQD3rfIVVpscpumEKz78NT__2wT_o3z-7a8wf12N7l9XFSSFR5yNlzOi8F3UevqX1S3dSjPVttMzXDviVOQzfv4vGkJrhdEENLp-E-J-STK04J7GTX_eCAtL4NgkocjkSdp4E7BY1dA7u6OXECkHFUm-Q1Qi8ASxNUn7HXnqrcV3vv8fk3IxUv4XMFAPRLTUJIL1ekKnp40kGwcdWgyNCpBPYeKXsP9nEoc5PXBdNr66FkpvzAS59LDr8-i9mkQCnCZLIl6zseeWyABxA@pypi.artifacts.furycloud.io"
+verify_ssl = true
+name = "pip_conf_index_global"
+
+[packages]
+sweetviz = "==2.3.1"
+numpy = "==1.26.4"
+
+[dev-packages]
+pandas = "*"
+plotly = "*"
+matplotlib = "*"
+statsmodels = "*"
+nbformat = "*"
+ipykernel = "*"
+scikit-learn = "*"
+ipywidgets = "*"
+flask = "*"
+pydantic = "*"
+flask-pydantic = "*"
+pyarrow = "*"
+optuna = "*"
+sweetviz = "==2.3.1"
+numpy = "==1.26.4"
+
+[requires]
+python_version = "3.9"
