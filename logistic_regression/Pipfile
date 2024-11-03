@@ -1,0 +1,25 @@
+[[source]]
+url = "https://igcruz:eyJraWQiOiI4ZTNjOWE4Zi1mNDA2LTRiMTQtYWEyMy1kNzQ5Yzc5ZGUwMzQiLCJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJhcnRpZmFjdHMtbWFuYWdlciIsInN1YiI6ImlnY3J1eiIsInR5cGUiOiJ1c2VyIiwiaWF0IjoxNzMwNTk4MjIxLCJleHAiOjE3MzA2MjcwMjF9.ws-IkxDnyDRN8MHQy5dTNlqm97mQkcNj3p1COPoiP--A4mPNxM3KZdvl96zTefWnAn-HU8gpTTmbVqd-e0RLBDVVpVL8bFR9wF5_7M1Vn7PD0U3SK_xspW5HXm7w2pQAfF18TUaLwi0JaZCGG4TPjaDqnmH3N6Mz80YtzGb6lBz9OzjSfPK1uyjmQEa-Qyftax1odi7BkOWy_jFCAkTJqh2rvf2LSBihXzYMmt2NgtIXRXt5S5EFPbC-YWbeS9vSR9BYbuLU6CXkJObr2DYPHWGUsJ9Ur6sAsD9lP7hPFCUtoAsKBVqPwpiOKC5L-jN6r_6MwDRPjyLmuRekdmMPmg@pypi.artifacts.furycloud.io"
+verify_ssl = true
+name = "pip_conf_index_global"
+
+[packages]
+
+[dev-packages]
+pandas = "*"
+pyarrow = "*"
+scikit-learn = "*"
+seaborn = "*"
+plotly = "*"
+nbformat = "*"
+pingouin = "==0.5.5"
+optuna = "*"
+fastapi = "*"
+uvicorn = "*"
+pydantic = "*"
+ipywidgets = "*"
+ipykernel = "*"
+
+[requires]
+python_version = "3.9"
+python_full_version = "3.9.19"
