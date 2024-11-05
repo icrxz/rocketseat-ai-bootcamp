@@ -1,0 +1,23 @@
+[[source]]
+url = "https://igcruz:eyJraWQiOiI4ZTNjOWE4Zi1mNDA2LTRiMTQtYWEyMy1kNzQ5Yzc5ZGUwMzQiLCJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJhcnRpZmFjdHMtbWFuYWdlciIsInN1YiI6ImlnY3J1eiIsInR5cGUiOiJ1c2VyIiwiaWF0IjoxNzMwNjc3Nzc0LCJleHAiOjE3MzA3MDY1NzR9.Plctl--yzzUINQRDWbXlyEmqSmh9_gKYammxaZ1qBZN6W6x0iT4bJT2mY7HmI_yzE1sIDHXwkZ3eBDVHeX2CPRD4NeCTWca4GgD0PtqbfcCPmeBEJr-reZ38V3ewpFxdoNdzTnGwARxyG6B2loxVDYVtr1rX-kDlhz4dpE7JIoj8hn_v-UUQTZpqw89RM17URM0-Kbjdn8pV26btQNIk62jN1fx-shqxPzwJ427nWaA8rxLTfncos_Ev_9zLnDXvaQvPumIjwm3YA5TiBR7HroO3N-U2kZPvNzG2UZlCFhCQucvKDZJCqwjBL3Gaum5gy4-E6hM1FcTQNveIHa2SAA@pypi.artifacts.furycloud.io"
+verify_ssl = true
+name = "pip_conf_index_global"
+
+[packages]
+
+[dev-packages]
+seaborn = "*"
+ppscore = "*"
+setuptools = "*"
+nbformat = "*"
+matplotlib = "*"
+scikit-learn = "*"
+ipywidgets = "*"
+ipykernel = "*"
+shap = "*"
+plotly = "*"
+pandas = "==2.2.3"
+
+[requires]
+python_version = "3.9"
+python_full_version = "3.9.19"
