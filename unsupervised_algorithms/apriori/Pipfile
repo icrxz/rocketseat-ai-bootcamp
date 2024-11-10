@@ -1,0 +1,20 @@
+[[source]]
+url = "https://igcruz:eyJraWQiOiI4ZTNjOWE4Zi1mNDA2LTRiMTQtYWEyMy1kNzQ5Yzc5ZGUwMzQiLCJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJhcnRpZmFjdHMtbWFuYWdlciIsInN1YiI6ImlnY3J1eiIsInR5cGUiOiJ1c2VyIiwiaWF0IjoxNzMxMjQ1Njg2LCJleHAiOjE3MzEyNzQ0ODZ9.YH64GiCqmW3bbHbymNYIikbDEGLrG2e0HP0cCUVZSgvl7DLQYTPhiFKrEI5UKd-uuYsOUsVTilkdf1gLFY1RZHjkY9JodpgQp1e5b_eTMmROmG1BWCcPp7V0UokjjTtP8phyNZU8yUpzTbfpGLGGtAntlJkFFUE3eJMTUfoQ0at9EviF6q16BKDsYRTnj5bb_kRw3f2ZQ0PbRMBJSllk1HvkoBqKJZOLjVVDb2JK4dQ4mSSesNckynexr4HVQ-YeYcPnoHZBZIasrcAZicE63Wo3VuC7stNMvqXFe-0KtOADJGcoZXFrcag0NE-82T-f51EMqcTGG-6437IdkiPc0w@pypi.artifacts.furycloud.io"
+verify_ssl = true
+name = "pip_conf_index_global"
+
+[packages]
+
+[dev-packages]
+pandas = "*"
+plotly = "*"
+mlxtend = "*"
+matplotlib = "*"
+ipywidgets = "*"
+ipykernel = "*"
+seaborn = "*"
+nbformat = "*"
+
+[requires]
+python_version = "3.12"
+python_full_version = "3.12.7"
