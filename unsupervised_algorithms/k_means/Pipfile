@@ -1,0 +1,22 @@
+[[source]]
+url = "https://igcruz:eyJraWQiOiI4ZTNjOWE4Zi1mNDA2LTRiMTQtYWEyMy1kNzQ5Yzc5ZGUwMzQiLCJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJhcnRpZmFjdHMtbWFuYWdlciIsInN1YiI6ImlnY3J1eiIsInR5cGUiOiJ1c2VyIiwiaWF0IjoxNzMxMDA4MjA1LCJleHAiOjE3MzEwMzcwMDV9.AmN574tBE1Lz6sUMNqtaH4Z8OZD0tr_h38mWT_SeXPSxh8xPLULwCy5mtQJ9uJlHky7pf_Ojv6dq9K-s0qxzwsUyoqEvgZwY8wC0y5I9JC66QGQHS5OumrtAdXQ3ZP8jg83fW3arYT-UXQs942WPtsl8SxjAHVTlNg5n9U40NWCyBcNKMQqbSGhs62yojpDqgMkEcbqVd79nEpxRwG3HV7M32L4YNHZPM8wjkRkLgg1nYWN8IOdGi_iYvEF3IgpdWRi7LsEK9BRmIpmyntuUGmdAVWbc5EZ94eMSLKZ8OxZnRMNHYI8IFkc44aoi41CAVlA0LOsibvqc13C8_FSwzw@pypi.artifacts.furycloud.io"
+verify_ssl = true
+name = "pip_conf_index_global"
+
+[packages]
+
+[dev-packages]
+pandas = "*"
+plotly = "*"
+scikit-learn = "*"
+optuna = "*"
+ipywidgets = "*"
+ipykernel = "*"
+nbformat = "*"
+matplotlib = "*"
+pingouin = "==0.5.5"
+gradio = "*"
+
+[requires]
+python_version = "3.9"
+python_full_version = "3.9.19"
