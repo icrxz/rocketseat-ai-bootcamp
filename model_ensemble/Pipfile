@@ -1,0 +1,22 @@
+[[source]]
+url = "https://igcruz:eyJraWQiOiI4ZTNjOWE4Zi1mNDA2LTRiMTQtYWEyMy1kNzQ5Yzc5ZGUwMzQiLCJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJhcnRpZmFjdHMtbWFuYWdlciIsInN1YiI6ImlnY3J1eiIsInR5cGUiOiJ1c2VyIiwiaWF0IjoxNzMxNDMwNzMwLCJleHAiOjE3MzE0NTk1MzB9.QNgPfVHnvNo0X8MXmcZ2Hsyt_AjBaKLH2-FvQaWMe1-b7qY2mc9LaaV9cQNGKuV26ABkudLOSALZt5a0z94xoDhrCAz8qG_jtx-exC252hj2XMj4v13Een0vVRQwbfsDaw3Ld_kPqwCGMwrcZ9fHlnYzkX26oE2E8CHZj9juMP1tRYknrEtVOz-v9fDZezKJ8pPmhvG88EfP9BWXAyjW7VDMfAMz5E_qJhL5e1VpwicgFTEDaNmj4ERyYhqa-J5bVUpmKM0z9HuJl6BECJSXi4uRoDoyqYPjrx1OS0Bf-HMTY9YXRGaBvLMM_mUyRjttFNZGoLv7lPSf7t88rB7rFQ@pypi.artifacts.furycloud.io"
+verify_ssl = true
+name = "pip_conf_index_global"
+
+[packages]
+
+[dev-packages]
+pandas = "*"
+numpy = "*"
+matplotlib = "*"
+seaborn = "*"
+nbformat = "*"
+plotly = "*"
+scipy = "*"
+scikit-learn = "*"
+ipywidgets = "*"
+ipykernel = "*"
+
+[requires]
+python_version = "3.12"
+python_full_version = "3.12.7"
